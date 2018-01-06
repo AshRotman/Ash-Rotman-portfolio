@@ -203,6 +203,10 @@ hr.small {
     text-align: center;
 }
 
+#hailMinder {
+    background-color: grey;
+}
+
 .img-portfolio {
     margin: 0 auto;
 }
